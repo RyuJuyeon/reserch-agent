@@ -1,0 +1,37 @@
+# Public repository: only reviewed instruction files are allowed.
+# Add new public files here only after reviewing their contents.
+*
+!/.gitignore
+!/AGENTS.md
+!/README.md
+
+# Credentials, local state and personal research materials (explicit exclusions)
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+.codex/
+.agents/
+.ssh/
+work/
+outputs/
+private/
+data/
+papers/
+attachments/
+drafts/
+logs/
+*.pdf
+*.doc
+*.docx
+*.hwp
+*.hwpx
+*.csv
+*.xlsx
+*.zip
+*.png
+*.jpg
+*.txt
+*.log
