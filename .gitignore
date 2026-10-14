@@ -7,6 +7,14 @@
 !/examples/
 !/examples/education-ideas.md
 !/examples/quality-cases.md
+!/archive/
+!/archive/2026-10-14/
+!/archive/2026-10-14/README.md
+!/archive/2026-10-14/before-feedback.md
+!/archive/2026-10-14/after-feedback.md
+!/archive/2026-10-14/examples/
+!/archive/2026-10-14/examples/education-ideas.md
+!/archive/2026-10-14/examples/quality-cases.md
 
 # Credentials, local state and personal research materials (explicit exclusions)
 .env
