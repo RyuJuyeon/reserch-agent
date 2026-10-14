@@ -1,5 +1,15 @@
 # reserch-agent
 
+## 처음 사용하시면 여기를 누르세요
+
+**[한글 사용안내 열기](사용안내/README.md)** — 최신 지침, 수정 전·후 보관본, 내려받기를 한곳에서 찾을 수 있습니다.
+
+| 하고 싶은 일 | 누를 곳 |
+|---|---|
+| 현재 지침 보기 | [최신 AGENTS.md](AGENTS.md) |
+| 이전 것과 수정본 찾기 | [2026-10-14 보관 폴더](archive/2026-10-14/README.md) |
+| 컴퓨터에 전체 파일 받기 | [ZIP 내려받기](https://github.com/RyuJuyeon/reserch-agent/archive/refs/heads/main.zip) |
+
 막연한 연구 관심을 브레인스토밍으로 구체화하고 실행 가능한 연구계획서로 발전시키는 한국어 에이전트 지침입니다. 저장소 이름은 `reserch-agent`입니다.
 
 ## 구성
@@ -17,6 +27,7 @@
 
 - `AGENTS.md`: 역할, 질문 원칙, 아이디어 발상, 연구 설계, 계획서 작성 및 점검 절차.
 - `README.md`: 사용법과 공개 자료 관리 안내.
+- `사용안내/README.md`: 처음 사용하는 분을 위한 파일·폴더 바로가기와 안내.
 - `examples/education-ideas.md`: 본문에서 분리한 교육 분야 발상 예시.
 - `examples/quality-cases.md`: 본문에서 분리한 가상 행동 점검 사례.
 - `.gitignore`: 지침·설명·검토된 예시만 공개 추적하도록 제한하는 규칙.
