@@ -4,6 +4,9 @@
 !/.gitignore
 !/AGENTS.md
 !/README.md
+!/examples/
+!/examples/education-ideas.md
+!/examples/quality-cases.md
 
 # Credentials, local state and personal research materials (explicit exclusions)
 .env
@@ -18,6 +21,7 @@ secrets*
 work/
 outputs/
 private/
+projects/
 data/
 papers/
 attachments/
